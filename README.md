@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Aniket Kumar (AniD-z) 👋
 
-<!--
-**AniD-z/AniD-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Network Security & Cybersecurity Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **About Me**
+- 🧑‍💻 Software Engineer passionate about all things network security and cybersecurity.
+- 🛡️ Specialized in building, breaking, and securing apps & websites.
+- 🔒 Deeply invested in confidential computing, with hands-on experience securing 5G/6G infrastructure.
+- 🧩 I love to break things and fix them—because every bug is a new opportunity to learn.
+
+---
+
+🛠️ **Tech Stack**
+- Languages: **Go**, **Rust**, **Python**
+- Automation: **n8n**
+- DevOps: **Docker**, **Kubernetes**
+- Security: Confidential Computing, Network Security, App/Web Security
+
+---
+
+🌐 **My Portfolio**
+- Visit: [anidz.app](https://anidz.app)
+
+🔗 **Let’s Connect**
+- [LinkedIn](https://www.linkedin.com/in/aniketk0x45/)
+
+---
+
+💡 **Current Focus**
+- Exploring LLM/AI security and working on fine-tuning + RAG for a cybersecurity-focused LLM.
+- Always curious about the next challenge in cybersecurity and AI.
+
+---
+
+⚡ **Fun Fact**
+> "I like to break things and fix them—because that’s how real security is built."
+
+---
+
+Let's build a safer digital world together! 🚦
